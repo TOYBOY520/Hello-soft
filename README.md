@@ -2,3 +2,4 @@
 homework
 --------
 printf（“change it！”）；
+return;
